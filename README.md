@@ -1,4 +1,4 @@
-# 📱 Instagram unfollower and listing of follows&following from each
+# 📱 Instagram unfollower and listing of followerss&following from each one
 
 [![Maintenance](https://img.shields.io/maintenance/yes/2025)](https://github.com/davidarroyo1234/InstagramUnfollowers)
 
